@@ -1,1 +1,0 @@
-buttons = document.getElementById(sound);
